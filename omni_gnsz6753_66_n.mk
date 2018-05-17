@@ -17,6 +17,6 @@
 # Inherit from our custom product configuration
 $(call inherit-product, vendor/omni/config/common.mk)
 
-$(call inherit-product, device/lenovo/aio_otfp/full_aio_otfp.mk)
+$(call inherit-product, device/condor/gnsz6753_66_n/full_gnsz6753_66_n.mk)
 
-PRODUCT_NAME := omni_aio_otfp
+PRODUCT_NAME := omni_gnsz6753_66_n
