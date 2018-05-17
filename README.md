@@ -1,4 +1,4 @@
-TWRP device tree for Lenovo K3 Note
+TWRP device tree for condor allure A8
 ==============
 
 This branch is for building TWRP 3.x.
